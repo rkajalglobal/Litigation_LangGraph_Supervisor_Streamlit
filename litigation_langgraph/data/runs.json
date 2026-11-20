@@ -1,0 +1,542 @@
+{
+  "evt-demo-001": {
+    "event": {
+      "event_id": "evt-demo-001",
+      "docket_number": "1:26-cv-00123",
+      "court": "US District Court, Example District",
+      "title": "Motion to Compel Discovery",
+      "filed_date": "2026-10-15",
+      "received_date": "2026-10-16",
+      "description": "Opposing counsel filed a motion to compel responses to interrogatories. Sample training event; not a real filing.",
+      "document_text": "Motion to Compel: Plaintiff requests responses to interrogatories. This is synthetic sample text."
+    },
+    "matter": {
+      "matter_id": "MAT-1001",
+      "client": "Example Manufacturing LLC",
+      "name": "Example Manufacturing v. Sample Supplier",
+      "docket_number": "1:26-cv-00123",
+      "court": "US District Court, Example District",
+      "jurisdiction": "Federal (example)",
+      "lead_attorney": "Demo Attorney"
+    },
+    "precedents": [
+      {
+        "precedent_id": "PRE-001",
+        "title": "Discovery Motion Response Checklist",
+        "tags": [
+          "discovery",
+          "compel",
+          "interrogatories"
+        ],
+        "text": "Check service date, local rules, discovery requests, objections, meet-and-confer history, and privilege issues. This is synthetic internal guidance, not a real firm precedent."
+      },
+      {
+        "precedent_id": "PRE-002",
+        "title": "Motion for Protective Order Checklist",
+        "tags": [
+          "protective",
+          "discovery"
+        ],
+        "text": "Confirm confidentiality, scope, burden, and the governing protective-order standard. Synthetic example only."
+      }
+    ],
+    "case_law": [],
+    "research_note": "CourtListener disabled; no external case-law search performed.",
+    "analysis": "**PRELIMINARY ATTORNEY-REVIEW MEMORANDUM**  \n**Matter:** Example Manufacturing LLC v. Sample Supplier  \n**Docket Number:** 1:26-cv-00123  \n**Court:** US District Court, Example District  \n**Date:** [Insert Date of Memo Preparation]  \n**Prepared by:** [Your Name or Initials]  \n**Lead Attorney:** Demo Attorney  \n\n---\n\n### I. PURPOSE  \nThis memorandum provides a preliminary review of the Motion to Compel Discovery filed by opposing counsel on October 15, 2026, in the above-captioned matter. It is intended solely for internal attorney use and is subject to further verification and analysis.  \n\n---\n\n### II. FACTS (FROM PROVIDED MATERIAL)  \n- Opposing counsel filed a \"Motion to Compel Discovery\" on 10/15/2026, received 10/16/2026.  \n- The motion requests responses to interrogatories served on Example Manufacturing LLC.  \n- The motion text is synthetic sample text stating: \"Motion to Compel: Plaintiff requests responses to interrogatories.\"  \n- This event is a sample training exercise and not a real filing.  \n\n---\n\n### III. UNKNOWN / PENDING INFORMATION  \n- The specific interrogatories at issue, including their content, scope, and relevance, are not provided.  \n- The nature and substance of any objections previously asserted by Example Manufacturing LLC are unknown.  \n- The history of meet-and-confer efforts between the parties regarding these interrogatories is not detailed.  \n- Whether any privilege or confidentiality issues are implicated by the interrogatories or responses is unclear.  \n- The applicable local rules and any court-specific discovery procedures or deadlines have not been confirmed.  \n- Jurisdictional nuances and the authenticity of the filing require human verification.  \n- No information on any prior discovery motions or protective orders in this case is available.  \n\n---\n\n### IV. POTENTIAL ISSUES IDENTIFIED  \n- Adequacy and timeliness of Example Manufacturing LLC’s responses to interrogatories.  \n- Validity and sufficiency of any objections asserted by Example Manufacturing LLC.  \n- Compliance with local rules governing discovery motions and meet-and-confer requirements.  \n- Potential privilege or confidentiality concerns that may warrant a protective order.  \n- Risk of sanctions or adverse rulings if discovery obligations are not met.  \n\n---\n\n### V. NEXT RESEARCH AND ACTION STEPS  \n1. **Review the actual interrogatories and responses** served by Example Manufacturing LLC to assess completeness and objections.  \n2. **Verify the meet-and-confer history** to confirm whether good-faith efforts to resolve disputes occurred.  \n3. **Consult local rules and the Federal Rules of Civil Procedure** applicable in the US District Court, Example District, focusing on discovery motion procedures and deadlines.  \n4. **Evaluate any privilege or confidentiality issues** that may require a protective order, referencing internal guidance (see PRE-002).  \n5. **Prepare a draft response or opposition** to the motion to compel, using the Discovery Motion Response Checklist (PRE-001) as a guide.  \n6. **Confirm jurisdictional and procedural requirements** with supervising counsel or court clerk to ensure compliance.  \n7. **Flag for lead attorney review** before filing any response or motion.  \n\n---\n\n### VI. SOURCES REFERENCED  \n- PRE-001: Discovery Motion Response Checklist (internal guidance)  \n- PRE-002: Motion for Protective Order Checklist (internal guidance)  \n\n---\n\n### VII. CAUTIONS AND DISCLAIMERS  \n- This memorandum is based solely on synthetic sample materials provided and is not a substitute for independent legal research or advice.  \n- Court rules, filing authenticity, jurisdictional issues, and citator treatment must be verified by qualified attorneys.  \n- Sample precedents cited are internal training examples and do not constitute firm policy or binding authority.  \n- All deadlines and procedural requirements should be confirmed with actual court rules and docket entries.  \n\n---\n\nPlease advise on any additional information or documents needed to proceed.  \n\n[End of Memorandum]",
+    "draft": "DRAFT — ATTORNEY REVIEW REQUIRED\n\nMatter: Example Manufacturing v. Sample Supplier\nCourt event: Motion to Compel Discovery\n\nPRELIMINARY ANALYSIS\n**PRELIMINARY ATTORNEY-REVIEW MEMORANDUM**  \n**Matter:** Example Manufacturing LLC v. Sample Supplier  \n**Docket Number:** 1:26-cv-00123  \n**Court:** US District Court, Example District  \n**Date:** [Insert Date of Memo Preparation]  \n**Prepared by:** [Your Name or Initials]  \n**Lead Attorney:** Demo Attorney  \n\n---\n\n### I. PURPOSE  \nThis memorandum provides a preliminary review of the Motion to Compel Discovery filed by opposing counsel on October 15, 2026, in the above-captioned matter. It is intended solely for internal attorney use and is subject to further verification and analysis.  \n\n---\n\n### II. FACTS (FROM PROVIDED MATERIAL)  \n- Opposing counsel filed a \"Motion to Compel Discovery\" on 10/15/2026, received 10/16/2026.  \n- The motion requests responses to interrogatories served on Example Manufacturing LLC.  \n- The motion text is synthetic sample text stating: \"Motion to Compel: Plaintiff requests responses to interrogatories.\"  \n- This event is a sample training exercise and not a real filing.  \n\n---\n\n### III. UNKNOWN / PENDING INFORMATION  \n- The specific interrogatories at issue, including their content, scope, and relevance, are not provided.  \n- The nature and substance of any objections previously asserted by Example Manufacturing LLC are unknown.  \n- The history of meet-and-confer efforts between the parties regarding these interrogatories is not detailed.  \n- Whether any privilege or confidentiality issues are implicated by the interrogatories or responses is unclear.  \n- The applicable local rules and any court-specific discovery procedures or deadlines have not been confirmed.  \n- Jurisdictional nuances and the authenticity of the filing require human verification.  \n- No information on any prior discovery motions or protective orders in this case is available.  \n\n---\n\n### IV. POTENTIAL ISSUES IDENTIFIED  \n- Adequacy and timeliness of Example Manufacturing LLC’s responses to interrogatories.  \n- Validity and sufficiency of any objections asserted by Example Manufacturing LLC.  \n- Compliance with local rules governing discovery motions and meet-and-confer requirements.  \n- Potential privilege or confidentiality concerns that may warrant a protective order.  \n- Risk of sanctions or adverse rulings if discovery obligations are not met.  \n\n---\n\n### V. NEXT RESEARCH AND ACTION STEPS  \n1. **Review the actual interrogatories and responses** served by Example Manufacturing LLC to assess completeness and objections.  \n2. **Verify the meet-and-confer history** to confirm whether good-faith efforts to resolve disputes occurred.  \n3. **Consult local rules and the Federal Rules of Civil Procedure** applicable in the US District Court, Example District, focusing on discovery motion procedures and deadlines.  \n4. **Evaluate any privilege or confidentiality issues** that may require a protective order, referencing internal guidance (see PRE-002).  \n5. **Prepare a draft response or opposition** to the motion to compel, using the Discovery Motion Response Checklist (PRE-001) as a guide.  \n6. **Confirm jurisdictional and procedural requirements** with supervising counsel or court clerk to ensure compliance.  \n7. **Flag for lead attorney review** before filing any response or motion.  \n\n---\n\n### VI. SOURCES REFERENCED  \n- PRE-001: Discovery Motion Response Checklist (internal guidance)  \n- PRE-002: Motion for Protective Order Checklist (internal guidance)  \n\n---\n\n### VII. CAUTIONS AND DISCLAIMERS  \n- This memorandum is based solely on synthetic sample materials provided and is not a substitute for independent legal research or advice.  \n- Court rules, filing authenticity, jurisdictional issues, and citator treatment must be verified by qualified attorneys.  \n- Sample precedents cited are internal training examples and do not constitute firm policy or binding authority.  \n- All deadlines and procedural requirements should be confirmed with actual court rules and docket entries.  \n\n---\n\nPlease advise on any additional information or documents needed to proceed.  \n\n[End of Memorandum]\n\nREQUIRED REVIEW: compare original filing; validate authorities and citations; check local rules, service date, confidentiality, and deadlines.",
+    "tasks": [
+      {
+        "id": "evt-demo-001-1",
+        "title": "Verify court filing and service information",
+        "due_date": null,
+        "status": "proposed"
+      },
+      {
+        "id": "evt-demo-001-2",
+        "title": "Research controlling law and verify citations",
+        "due_date": null,
+        "status": "proposed"
+      },
+      {
+        "id": "evt-demo-001-3",
+        "title": "Calculate response deadline from verified court rules",
+        "due_date": null,
+        "status": "proposed"
+      },
+      {
+        "id": "evt-demo-001-4",
+        "title": "Review and revise draft work product",
+        "due_date": null,
+        "status": "proposed"
+      }
+    ],
+    "status": "approved",
+    "completed": [
+      "intake",
+      "matter_match",
+      "precedent_research",
+      "case_law_research",
+      "analysis",
+      "drafting",
+      "task_planning"
+    ],
+    "next_agent": "finish",
+    "supervisor_reason": "All required agents completed; hand off for attorney review.",
+    "supervisor_history": [
+      {
+        "completed": [],
+        "decision": "intake",
+        "reason": "Dispatch intake: prerequisites satisfied."
+      },
+      {
+        "completed": [
+          "intake"
+        ],
+        "decision": "matter_match",
+        "reason": "Dispatch matter_match: prerequisites satisfied."
+      },
+      {
+        "completed": [
+          "intake",
+          "matter_match"
+        ],
+        "decision": "precedent_research",
+        "reason": "Dispatch precedent_research: prerequisites satisfied."
+      },
+      {
+        "completed": [
+          "intake",
+          "matter_match",
+          "precedent_research"
+        ],
+        "decision": "case_law_research",
+        "reason": "Dispatch case_law_research: prerequisites satisfied."
+      },
+      {
+        "completed": [
+          "intake",
+          "matter_match",
+          "precedent_research",
+          "case_law_research"
+        ],
+        "decision": "analysis",
+        "reason": "Dispatch analysis: prerequisites satisfied."
+      },
+      {
+        "completed": [
+          "intake",
+          "matter_match",
+          "precedent_research",
+          "case_law_research",
+          "analysis"
+        ],
+        "decision": "drafting",
+        "reason": "Dispatch drafting: prerequisites satisfied."
+      },
+      {
+        "completed": [
+          "intake",
+          "matter_match",
+          "precedent_research",
+          "case_law_research",
+          "analysis",
+          "drafting"
+        ],
+        "decision": "task_planning",
+        "reason": "Dispatch task_planning: prerequisites satisfied."
+      },
+      {
+        "completed": [
+          "intake",
+          "matter_match",
+          "precedent_research",
+          "case_law_research",
+          "analysis",
+          "drafting",
+          "task_planning"
+        ],
+        "decision": "finish",
+        "reason": "All required agents completed; hand off for attorney review."
+      }
+    ],
+    "review": {
+      "reviewer": "Ruchi",
+      "notes": "Approved",
+      "decision": "approved"
+    }
+  },
+  "evt-demo-002": {
+    "event": {
+      "event_id": "evt-demo-002",
+      "docket_number": "2:26-cv-00999",
+      "court": "US District Court, Example District",
+      "title": "Motion to Compel Discovery",
+      "filed_date": "2026-10-15",
+      "received_date": "2026-10-16",
+      "description": "Opposing counsel filed a motion to compel responses to interrogatories. Sample training event; not a real filing.",
+      "document_text": "Motion to Compel: Plaintiff requests responses to interrogatories. This is synthetic sample text."
+    },
+    "error": "Matter match count = 0. Manual matter resolution required.",
+    "status": "needs_matter_review",
+    "completed": [
+      "intake",
+      "matter_match"
+    ],
+    "next_agent": "finish",
+    "supervisor_reason": "Safety gate: intake/matter validation failed.",
+    "supervisor_history": [
+      {
+        "completed": [],
+        "decision": "intake",
+        "reason": "Dispatch intake: prerequisites satisfied."
+      },
+      {
+        "completed": [
+          "intake"
+        ],
+        "decision": "matter_match",
+        "reason": "Dispatch matter_match: prerequisites satisfied."
+      },
+      {
+        "completed": [
+          "intake",
+          "matter_match"
+        ],
+        "decision": "finish",
+        "reason": "Safety gate: intake/matter validation failed."
+      }
+    ]
+  },
+  "evt-demo-003": {
+    "event": {
+      "event_id": "evt-demo-003",
+      "docket_number": "1:26-cv-00123",
+      "court": "US District Court, Example District",
+      "title": "Motion to Compel Discovery",
+      "filed_date": "2026-10-15",
+      "received_date": "2026-10-16",
+      "description": "Opposing counsel filed a motion to compel responses to interrogatories. Sample training event; not a real filing.",
+      "document_text": "Motion to Compel: Plaintiff requests responses to interrogatories. This is synthetic sample text."
+    },
+    "matter": {
+      "matter_id": "MAT-1001",
+      "client": "Example Manufacturing LLC",
+      "name": "Example Manufacturing v. Sample Supplier",
+      "docket_number": "1:26-cv-00123",
+      "court": "US District Court, Example District",
+      "jurisdiction": "Federal (example)",
+      "lead_attorney": "Demo Attorney"
+    },
+    "precedents": [
+      {
+        "precedent_id": "PRE-001",
+        "title": "Discovery Motion Response Checklist",
+        "tags": [
+          "discovery",
+          "compel",
+          "interrogatories"
+        ],
+        "text": "Check service date, local rules, discovery requests, objections, meet-and-confer history, and privilege issues. This is synthetic internal guidance, not a real firm precedent."
+      },
+      {
+        "precedent_id": "PRE-002",
+        "title": "Motion for Protective Order Checklist",
+        "tags": [
+          "protective",
+          "discovery"
+        ],
+        "text": "Confirm confidentiality, scope, burden, and the governing protective-order standard. Synthetic example only."
+      }
+    ],
+    "case_law": [],
+    "research_note": "CourtListener disabled; no external case-law search performed.",
+    "analysis": "**PRELIMINARY ATTORNEY-REVIEW MEMORANDUM**  \n**Matter:** Example Manufacturing LLC v. Sample Supplier  \n**Docket Number:** 1:26-cv-00123  \n**Court:** US District Court, Example District  \n**Date:** [Insert Today’s Date]  \n**From:** Demo Attorney (Lead Counsel)  \n**Re:** Motion to Compel Discovery filed 2026-10-15 (evt-demo-003)  \n\n---\n\n### I. FACTS  \n- Opposing counsel filed a Motion to Compel Discovery on October 15, 2026, received October 16, 2026.  \n- The motion requests responses to interrogatories served on Example Manufacturing LLC.  \n- The motion text is synthetic sample text stating: \"Motion to Compel: Plaintiff requests responses to interrogatories.\"  \n- This event is a sample training exercise and not a real filing.  \n\n### II. UNKNOWN / PENDING INFORMATION  \n- Specific interrogatories at issue have not been provided.  \n- The nature and content of any objections previously asserted by Example Manufacturing LLC are unknown.  \n- The history of meet-and-confer efforts between the parties is not documented here.  \n- Whether any privilege or confidentiality issues are implicated by the interrogatories or responses is unclear.  \n- The applicable local rules and any court-specific discovery procedures have not been verified.  \n- Jurisdictional nuances and filing deadlines related to the motion to compel require human verification.  \n- Authenticity and procedural posture of the filing must be confirmed by counsel.  \n\n### III. POTENTIAL ISSUES  \n- Whether Example Manufacturing LLC timely and adequately responded to the interrogatories.  \n- Whether objections to the interrogatories are valid and properly preserved.  \n- Whether the parties complied with meet-and-confer requirements prior to filing the motion.  \n- Potential privilege or confidentiality concerns that may warrant a protective order.  \n- The scope and relevance of the interrogatories in relation to the claims and defenses.  \n- Compliance with local and federal court rules governing discovery motions.  \n\n### IV. NEXT RESEARCH / ACTION STEPS  \n- Obtain and review the actual interrogatories served on Example Manufacturing LLC.  \n- Review any responses and objections previously served by Example Manufacturing LLC.  \n- Confirm meet-and-confer communications and efforts to resolve discovery disputes informally.  \n- Verify applicable local rules and federal rules of civil procedure regarding motions to compel discovery in the US District Court, Example District.  \n- Assess whether a protective order or other discovery motion may be appropriate, referencing internal guidance.  \n- Coordinate with client to confirm any privilege or confidentiality concerns.  \n- Prepare a draft response to the motion to compel, incorporating checklist items from the \"Discovery Motion Response Checklist\" (PRE-001).  \n- Flag for lead attorney review the need to verify court rules, filing authenticity, jurisdictional issues, and any deadlines.  \n\n### V. REFERENCES  \n- Internal Guidance: \"Discovery Motion Response Checklist\" (PRE-001) — advises checking service dates, local rules, discovery requests, objections, meet-and-confer history, and privilege issues.  \n- Internal Guidance: \"Motion for Protective Order Checklist\" (PRE-002) — relevant if confidentiality or burden issues arise.  \n\n---\n\n**IMPORTANT NOTICE:**  \nThis memorandum is preliminary and for attorney review only. It is based solely on synthetic sample materials provided and does not constitute legal advice. Court rules, filing authenticity, jurisdiction, and citator treatment must be independently verified by counsel. Sample precedents cited are internal training examples and not genuine firm documents.  \n\nPlease advise on further instructions or additional materials needed.",
+    "draft": "DRAFT — ATTORNEY REVIEW REQUIRED\n\nMatter: Example Manufacturing v. Sample Supplier\nCourt event: Motion to Compel Discovery\n\nPRELIMINARY ANALYSIS\n**PRELIMINARY ATTORNEY-REVIEW MEMORANDUM**  \n**Matter:** Example Manufacturing LLC v. Sample Supplier  \n**Docket Number:** 1:26-cv-00123  \n**Court:** US District Court, Example District  \n**Date:** [Insert Today’s Date]  \n**From:** Demo Attorney (Lead Counsel)  \n**Re:** Motion to Compel Discovery filed 2026-10-15 (evt-demo-003)  \n\n---\n\n### I. FACTS  \n- Opposing counsel filed a Motion to Compel Discovery on October 15, 2026, received October 16, 2026.  \n- The motion requests responses to interrogatories served on Example Manufacturing LLC.  \n- The motion text is synthetic sample text stating: \"Motion to Compel: Plaintiff requests responses to interrogatories.\"  \n- This event is a sample training exercise and not a real filing.  \n\n### II. UNKNOWN / PENDING INFORMATION  \n- Specific interrogatories at issue have not been provided.  \n- The nature and content of any objections previously asserted by Example Manufacturing LLC are unknown.  \n- The history of meet-and-confer efforts between the parties is not documented here.  \n- Whether any privilege or confidentiality issues are implicated by the interrogatories or responses is unclear.  \n- The applicable local rules and any court-specific discovery procedures have not been verified.  \n- Jurisdictional nuances and filing deadlines related to the motion to compel require human verification.  \n- Authenticity and procedural posture of the filing must be confirmed by counsel.  \n\n### III. POTENTIAL ISSUES  \n- Whether Example Manufacturing LLC timely and adequately responded to the interrogatories.  \n- Whether objections to the interrogatories are valid and properly preserved.  \n- Whether the parties complied with meet-and-confer requirements prior to filing the motion.  \n- Potential privilege or confidentiality concerns that may warrant a protective order.  \n- The scope and relevance of the interrogatories in relation to the claims and defenses.  \n- Compliance with local and federal court rules governing discovery motions.  \n\n### IV. NEXT RESEARCH / ACTION STEPS  \n- Obtain and review the actual interrogatories served on Example Manufacturing LLC.  \n- Review any responses and objections previously served by Example Manufacturing LLC.  \n- Confirm meet-and-confer communications and efforts to resolve discovery disputes informally.  \n- Verify applicable local rules and federal rules of civil procedure regarding motions to compel discovery in the US District Court, Example District.  \n- Assess whether a protective order or other discovery motion may be appropriate, referencing internal guidance.  \n- Coordinate with client to confirm any privilege or confidentiality concerns.  \n- Prepare a draft response to the motion to compel, incorporating checklist items from the \"Discovery Motion Response Checklist\" (PRE-001).  \n- Flag for lead attorney review the need to verify court rules, filing authenticity, jurisdictional issues, and any deadlines.  \n\n### V. REFERENCES  \n- Internal Guidance: \"Discovery Motion Response Checklist\" (PRE-001) — advises checking service dates, local rules, discovery requests, objections, meet-and-confer history, and privilege issues.  \n- Internal Guidance: \"Motion for Protective Order Checklist\" (PRE-002) — relevant if confidentiality or burden issues arise.  \n\n---\n\n**IMPORTANT NOTICE:**  \nThis memorandum is preliminary and for attorney review only. It is based solely on synthetic sample materials provided and does not constitute legal advice. Court rules, filing authenticity, jurisdiction, and citator treatment must be independently verified by counsel. Sample precedents cited are internal training examples and not genuine firm documents.  \n\nPlease advise on further instructions or additional materials needed.\n\nREQUIRED REVIEW: compare original filing; validate authorities and citations; check local rules, service date, confidentiality, and deadlines.",
+    "tasks": [
+      {
+        "id": "evt-demo-003-1",
+        "title": "Verify court filing and service information",
+        "due_date": null,
+        "status": "proposed"
+      },
+      {
+        "id": "evt-demo-003-2",
+        "title": "Research controlling law and verify citations",
+        "due_date": null,
+        "status": "proposed"
+      },
+      {
+        "id": "evt-demo-003-3",
+        "title": "Calculate response deadline from verified court rules",
+        "due_date": null,
+        "status": "proposed"
+      },
+      {
+        "id": "evt-demo-003-4",
+        "title": "Review and revise draft work product",
+        "due_date": null,
+        "status": "proposed"
+      }
+    ],
+    "status": "rejected",
+    "completed": [
+      "intake",
+      "matter_match",
+      "precedent_research",
+      "case_law_research",
+      "analysis",
+      "drafting",
+      "task_planning"
+    ],
+    "next_agent": "finish",
+    "supervisor_reason": "All required agents completed; hand off for attorney review.",
+    "supervisor_history": [
+      {
+        "completed": [],
+        "decision": "intake",
+        "reason": "Dispatch intake: prerequisites satisfied."
+      },
+      {
+        "completed": [
+          "intake"
+        ],
+        "decision": "matter_match",
+        "reason": "Dispatch matter_match: prerequisites satisfied."
+      },
+      {
+        "completed": [
+          "intake",
+          "matter_match"
+        ],
+        "decision": "precedent_research",
+        "reason": "Dispatch precedent_research: prerequisites satisfied."
+      },
+      {
+        "completed": [
+          "intake",
+          "matter_match",
+          "precedent_research"
+        ],
+        "decision": "case_law_research",
+        "reason": "Dispatch case_law_research: prerequisites satisfied."
+      },
+      {
+        "completed": [
+          "intake",
+          "matter_match",
+          "precedent_research",
+          "case_law_research"
+        ],
+        "decision": "analysis",
+        "reason": "Dispatch analysis: prerequisites satisfied."
+      },
+      {
+        "completed": [
+          "intake",
+          "matter_match",
+          "precedent_research",
+          "case_law_research",
+          "analysis"
+        ],
+        "decision": "drafting",
+        "reason": "Dispatch drafting: prerequisites satisfied."
+      },
+      {
+        "completed": [
+          "intake",
+          "matter_match",
+          "precedent_research",
+          "case_law_research",
+          "analysis",
+          "drafting"
+        ],
+        "decision": "task_planning",
+        "reason": "Dispatch task_planning: prerequisites satisfied."
+      },
+      {
+        "completed": [
+          "intake",
+          "matter_match",
+          "precedent_research",
+          "case_law_research",
+          "analysis",
+          "drafting",
+          "task_planning"
+        ],
+        "decision": "finish",
+        "reason": "All required agents completed; hand off for attorney review."
+      }
+    ],
+    "review": {
+      "reviewer": "Ram",
+      "notes": "Not Approved",
+      "decision": "rejected"
+    }
+  },
+  "evt-demo-004": {
+    "event": {
+      "event_id": "evt-demo-004",
+      "docket_number": "2:26-cv-00999",
+      "court": "US District Court, Another District",
+      "title": "Motion to Compel Discovery",
+      "filed_date": "2026-10-15",
+      "received_date": "2026-10-16",
+      "description": "Opposing counsel filed a motion to compel responses to interrogatories. Sample training event; not a real filing.",
+      "document_text": "Motion to Compel: Plaintiff requests responses to interrogatories. This is synthetic sample text."
+    },
+    "matter": {
+      "matter_id": "MAT-1002",
+      "client": "Example Services Inc.",
+      "name": "Example Services v. Test Co.",
+      "docket_number": "2:26-cv-00999",
+      "court": "US District Court, Another District",
+      "jurisdiction": "Federal (example)",
+      "lead_attorney": "Demo Attorney"
+    },
+    "precedents": [
+      {
+        "precedent_id": "PRE-001",
+        "title": "Discovery Motion Response Checklist",
+        "tags": [
+          "discovery",
+          "compel",
+          "interrogatories"
+        ],
+        "text": "Check service date, local rules, discovery requests, objections, meet-and-confer history, and privilege issues. This is synthetic internal guidance, not a real firm precedent."
+      },
+      {
+        "precedent_id": "PRE-002",
+        "title": "Motion for Protective Order Checklist",
+        "tags": [
+          "protective",
+          "discovery"
+        ],
+        "text": "Confirm confidentiality, scope, burden, and the governing protective-order standard. Synthetic example only."
+      }
+    ],
+    "case_law": [],
+    "research_note": "CourtListener disabled; no external case-law search performed.",
+    "analysis": "**PRELIMINARY ATTORNEY-REVIEW MEMORANDUM**  \n**Matter:** Example Services v. Test Co.  \n**Docket Number:** 2:26-cv-00999  \n**Court:** US District Court, Another District  \n**Date:** [Insert current date]  \n**From:** Demo Attorney (Lead Attorney)  \n**Re:** Motion to Compel Discovery filed 2026-10-15 (evt-demo-004)  \n\n---\n\n### I. FACTS  \n- Opposing counsel filed a Motion to Compel Discovery on October 15, 2026, received October 16, 2026.  \n- The motion requests responses to interrogatories served on Example Services Inc.  \n- The motion text is synthetic sample text stating: \"Motion to Compel: Plaintiff requests responses to interrogatories.\"  \n- This is a sample training event and not a real filing.  \n\n### II. UNKNOWN / PENDING INFORMATION  \n- Specific interrogatories at issue and their content are not provided.  \n- The nature and substance of any objections previously asserted by Example Services Inc. are unknown.  \n- Whether a meet-and-confer process occurred prior to the motion filing is not indicated.  \n- The local rules and any applicable court-specific discovery procedures have not been reviewed or confirmed.  \n- No information on any asserted privileges or confidentiality concerns related to the interrogatories.  \n- No deadlines for response or opposition briefing are provided.  \n- Jurisdictional and procedural rules governing discovery motions in this court require human verification.  \n- Authenticity and procedural posture of the filing must be confirmed by counsel.  \n\n### III. POTENTIAL ISSUES  \n- Adequacy and timeliness of responses to interrogatories served on Example Services Inc.  \n- Validity and sufficiency of any objections or grounds for withholding information.  \n- Compliance with local rules regarding discovery motions, including meet-and-confer requirements.  \n- Potential need for a protective order if sensitive or privileged information is implicated.  \n- Risk of sanctions or adverse rulings if discovery obligations are not met or procedural rules are violated.  \n\n### IV. NEXT RESEARCH / ACTION STEPS  \n1. **Review the actual interrogatories served** on Example Services Inc. to assess scope and relevance.  \n2. **Examine any objections or responses already provided** to determine adequacy and grounds for dispute.  \n3. **Confirm meet-and-confer history** with opposing counsel to verify compliance with local rules.  \n4. **Review local court rules and standing orders** for discovery motions in the US District Court, Another District, including deadlines and procedural requirements.  \n5. **Assess whether a protective order is warranted** based on the nature of the information sought.  \n6. **Consult internal checklists** such as:  \n   - Discovery Motion Response Checklist (PRE-001) for procedural and substantive considerations.  \n   - Motion for Protective Order Checklist (PRE-002) if confidentiality or burden issues arise.  \n7. **Verify jurisdictional and procedural rules** with human review to ensure accuracy and compliance.  \n8. **Prepare a draft opposition or response strategy** pending further factual development and client input.  \n\n---\n\n### V. IMPORTANT NOTES  \n- This memorandum is preliminary and for attorney review only.  \n- The motion and related documents are synthetic samples and not actual filings.  \n- Court rules, filing authenticity, jurisdiction, and procedural deadlines require human verification before reliance or filing.  \n- Sample precedents cited are internal training examples and not genuine firm documents or binding authority.  \n\n---\n\nPlease advise on any additional information or documents needed to proceed.  \n\n[Signature block or attorney initials]",
+    "draft": "DRAFT — ATTORNEY REVIEW REQUIRED\n\nMatter: Example Services v. Test Co.\nCourt event: Motion to Compel Discovery\n\nPRELIMINARY ANALYSIS\n**PRELIMINARY ATTORNEY-REVIEW MEMORANDUM**  \n**Matter:** Example Services v. Test Co.  \n**Docket Number:** 2:26-cv-00999  \n**Court:** US District Court, Another District  \n**Date:** [Insert current date]  \n**From:** Demo Attorney (Lead Attorney)  \n**Re:** Motion to Compel Discovery filed 2026-10-15 (evt-demo-004)  \n\n---\n\n### I. FACTS  \n- Opposing counsel filed a Motion to Compel Discovery on October 15, 2026, received October 16, 2026.  \n- The motion requests responses to interrogatories served on Example Services Inc.  \n- The motion text is synthetic sample text stating: \"Motion to Compel: Plaintiff requests responses to interrogatories.\"  \n- This is a sample training event and not a real filing.  \n\n### II. UNKNOWN / PENDING INFORMATION  \n- Specific interrogatories at issue and their content are not provided.  \n- The nature and substance of any objections previously asserted by Example Services Inc. are unknown.  \n- Whether a meet-and-confer process occurred prior to the motion filing is not indicated.  \n- The local rules and any applicable court-specific discovery procedures have not been reviewed or confirmed.  \n- No information on any asserted privileges or confidentiality concerns related to the interrogatories.  \n- No deadlines for response or opposition briefing are provided.  \n- Jurisdictional and procedural rules governing discovery motions in this court require human verification.  \n- Authenticity and procedural posture of the filing must be confirmed by counsel.  \n\n### III. POTENTIAL ISSUES  \n- Adequacy and timeliness of responses to interrogatories served on Example Services Inc.  \n- Validity and sufficiency of any objections or grounds for withholding information.  \n- Compliance with local rules regarding discovery motions, including meet-and-confer requirements.  \n- Potential need for a protective order if sensitive or privileged information is implicated.  \n- Risk of sanctions or adverse rulings if discovery obligations are not met or procedural rules are violated.  \n\n### IV. NEXT RESEARCH / ACTION STEPS  \n1. **Review the actual interrogatories served** on Example Services Inc. to assess scope and relevance.  \n2. **Examine any objections or responses already provided** to determine adequacy and grounds for dispute.  \n3. **Confirm meet-and-confer history** with opposing counsel to verify compliance with local rules.  \n4. **Review local court rules and standing orders** for discovery motions in the US District Court, Another District, including deadlines and procedural requirements.  \n5. **Assess whether a protective order is warranted** based on the nature of the information sought.  \n6. **Consult internal checklists** such as:  \n   - Discovery Motion Response Checklist (PRE-001) for procedural and substantive considerations.  \n   - Motion for Protective Order Checklist (PRE-002) if confidentiality or burden issues arise.  \n7. **Verify jurisdictional and procedural rules** with human review to ensure accuracy and compliance.  \n8. **Prepare a draft opposition or response strategy** pending further factual development and client input.  \n\n---\n\n### V. IMPORTANT NOTES  \n- This memorandum is preliminary and for attorney review only.  \n- The motion and related documents are synthetic samples and not actual filings.  \n- Court rules, filing authenticity, jurisdiction, and procedural deadlines require human verification before reliance or filing.  \n- Sample precedents cited are internal training examples and not genuine firm documents or binding authority.  \n\n---\n\nPlease advise on any additional information or documents needed to proceed.  \n\n[Signature block or attorney initials]\n\nREQUIRED REVIEW: compare original filing; validate authorities and citations; check local rules, service date, confidentiality, and deadlines.",
+    "tasks": [
+      {
+        "id": "evt-demo-004-1",
+        "title": "Verify court filing and service information",
+        "due_date": null,
+        "status": "proposed"
+      },
+      {
+        "id": "evt-demo-004-2",
+        "title": "Research controlling law and verify citations",
+        "due_date": null,
+        "status": "proposed"
+      },
+      {
+        "id": "evt-demo-004-3",
+        "title": "Calculate response deadline from verified court rules",
+        "due_date": null,
+        "status": "proposed"
+      },
+      {
+        "id": "evt-demo-004-4",
+        "title": "Review and revise draft work product",
+        "due_date": null,
+        "status": "proposed"
+      }
+    ],
+    "status": "approved",
+    "completed": [
+      "intake",
+      "matter_match",
+      "precedent_research",
+      "case_law_research",
+      "analysis",
+      "drafting",
+      "task_planning"
+    ],
+    "next_agent": "finish",
+    "supervisor_reason": "All required agents completed; hand off for attorney review.",
+    "supervisor_history": [
+      {
+        "completed": [],
+        "decision": "intake",
+        "reason": "Dispatch intake: prerequisites satisfied."
+      },
+      {
+        "completed": [
+          "intake"
+        ],
+        "decision": "matter_match",
+        "reason": "Dispatch matter_match: prerequisites satisfied."
+      },
+      {
+        "completed": [
+          "intake",
+          "matter_match"
+        ],
+        "decision": "precedent_research",
+        "reason": "Dispatch precedent_research: prerequisites satisfied."
+      },
+      {
+        "completed": [
+          "intake",
+          "matter_match",
+          "precedent_research"
+        ],
+        "decision": "case_law_research",
+        "reason": "Dispatch case_law_research: prerequisites satisfied."
+      },
+      {
+        "completed": [
+          "intake",
+          "matter_match",
+          "precedent_research",
+          "case_law_research"
+        ],
+        "decision": "analysis",
+        "reason": "Dispatch analysis: prerequisites satisfied."
+      },
+      {
+        "completed": [
+          "intake",
+          "matter_match",
+          "precedent_research",
+          "case_law_research",
+          "analysis"
+        ],
+        "decision": "drafting",
+        "reason": "Dispatch drafting: prerequisites satisfied."
+      },
+      {
+        "completed": [
+          "intake",
+          "matter_match",
+          "precedent_research",
+          "case_law_research",
+          "analysis",
+          "drafting"
+        ],
+        "decision": "task_planning",
+        "reason": "Dispatch task_planning: prerequisites satisfied."
+      },
+      {
+        "completed": [
+          "intake",
+          "matter_match",
+          "precedent_research",
+          "case_law_research",
+          "analysis",
+          "drafting",
+          "task_planning"
+        ],
+        "decision": "finish",
+        "reason": "All required agents completed; hand off for attorney review."
+      }
+    ],
+    "review": {
+      "reviewer": "Ruchi",
+      "notes": "Approved",
+      "decision": "approved"
+    }
+  }
+}

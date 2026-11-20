@@ -1,0 +1,146 @@
+[
+  {
+    "timestamp": "2026-10-16T20:51:09.909313+00:00",
+    "event_id": "evt-demo-001",
+    "step": "intake",
+    "message": "Event validated; no authenticity verification performed"
+  },
+  {
+    "timestamp": "2026-10-16T20:51:09.936893+00:00",
+    "event_id": "evt-demo-001",
+    "step": "matter_match",
+    "message": "Matched MAT-1001"
+  },
+  {
+    "timestamp": "2026-10-16T20:51:09.952368+00:00",
+    "event_id": "evt-demo-001",
+    "step": "precedent",
+    "message": "Retrieved 2 local examples"
+  },
+  {
+    "timestamp": "2026-10-16T20:51:16.350063+00:00",
+    "event_id": "evt-demo-001",
+    "step": "analysis",
+    "message": "Draft analysis prepared (AI)"
+  },
+  {
+    "timestamp": "2026-10-16T20:51:16.367119+00:00",
+    "event_id": "evt-demo-001",
+    "step": "drafting",
+    "message": "Internal review draft created"
+  },
+  {
+    "timestamp": "2026-10-16T20:51:16.383236+00:00",
+    "event_id": "evt-demo-001",
+    "step": "tasks",
+    "message": "Four proposed tasks created with no due dates"
+  },
+  {
+    "timestamp": "2026-10-16T20:52:32.009377+00:00",
+    "event_id": "evt-demo-001",
+    "step": "human_review",
+    "message": "approved by Ruchi"
+  },
+  {
+    "timestamp": "2026-10-16T20:57:11.062425+00:00",
+    "event_id": "evt-demo-002",
+    "step": "intake",
+    "message": "Event validated; no authenticity verification performed"
+  },
+  {
+    "timestamp": "2026-10-16T20:57:11.086663+00:00",
+    "event_id": "evt-demo-002",
+    "step": "matter_match",
+    "message": "Matter match count = 0. Manual matter resolution required."
+  },
+  {
+    "timestamp": "2026-10-16T21:00:37.021970+00:00",
+    "event_id": "evt-demo-003",
+    "step": "intake",
+    "message": "Event validated; no authenticity verification performed"
+  },
+  {
+    "timestamp": "2026-10-16T21:00:37.036007+00:00",
+    "event_id": "evt-demo-003",
+    "step": "matter_match",
+    "message": "Matched MAT-1001"
+  },
+  {
+    "timestamp": "2026-10-16T21:00:37.057873+00:00",
+    "event_id": "evt-demo-003",
+    "step": "precedent",
+    "message": "Retrieved 2 local examples"
+  },
+  {
+    "timestamp": "2026-10-16T21:00:42.610716+00:00",
+    "event_id": "evt-demo-003",
+    "step": "analysis",
+    "message": "Draft analysis prepared (AI)"
+  },
+  {
+    "timestamp": "2026-10-16T21:00:42.625962+00:00",
+    "event_id": "evt-demo-003",
+    "step": "drafting",
+    "message": "Internal review draft created"
+  },
+  {
+    "timestamp": "2026-10-16T21:00:42.642228+00:00",
+    "event_id": "evt-demo-003",
+    "step": "tasks",
+    "message": "Four proposed tasks created with no due dates"
+  },
+  {
+    "timestamp": "2026-10-16T21:01:44.260247+00:00",
+    "event_id": "evt-demo-003",
+    "step": "human_review",
+    "message": "rejected by Ram"
+  },
+  {
+    "timestamp": "2026-10-16T21:02:03.462616+00:00",
+    "event_id": "evt-demo-003",
+    "step": "human_review",
+    "message": "rejected by Ram"
+  },
+  {
+    "timestamp": "2026-10-16T21:05:06.079579+00:00",
+    "event_id": "evt-demo-004",
+    "step": "intake",
+    "message": "Event validated; no authenticity verification performed"
+  },
+  {
+    "timestamp": "2026-10-16T21:05:06.104151+00:00",
+    "event_id": "evt-demo-004",
+    "step": "matter_match",
+    "message": "Matched MAT-1002"
+  },
+  {
+    "timestamp": "2026-10-16T21:05:06.123722+00:00",
+    "event_id": "evt-demo-004",
+    "step": "precedent",
+    "message": "Retrieved 2 local examples"
+  },
+  {
+    "timestamp": "2026-10-16T21:05:11.309931+00:00",
+    "event_id": "evt-demo-004",
+    "step": "analysis",
+    "message": "Draft analysis prepared (AI)"
+  },
+  {
+    "timestamp": "2026-10-16T21:05:11.343230+00:00",
+    "event_id": "evt-demo-004",
+    "step": "drafting",
+    "message": "Internal review draft created"
+  },
+  {
+    "timestamp": "2026-10-16T21:05:11.376379+00:00",
+    "event_id": "evt-demo-004",
+    "step": "tasks",
+    "message": "Four proposed tasks created with no due dates"
+  },
+  {
+    "timestamp": "2026-10-16T21:05:44.170928+00:00",
+    "event_id": "evt-demo-004",
+    "step": "human_review",
+    "message": "approved by Ruchi"
+  }
+]

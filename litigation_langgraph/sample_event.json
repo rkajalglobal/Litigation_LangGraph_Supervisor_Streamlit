@@ -1,0 +1,11 @@
+
+{
+  "event_id": "evt-demo-001",
+  "docket_number": "1:26-cv-00123",
+  "court": "US District Court, Another District",
+  "title": "Motion to Compel Discovery",
+  "filed_date": "2026-10-15",
+  "received_date": "2026-10-16",
+  "description": "Opposing counsel filed a motion to compel responses to interrogatories. Sample training event; not a real filing.",
+  "document_text": "Motion to Compel: Plaintiff requests responses to interrogatories. This is synthetic sample text."
+}

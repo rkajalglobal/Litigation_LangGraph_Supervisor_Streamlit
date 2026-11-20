@@ -1,0 +1,4 @@
+[
+  {"matter_id":"MAT-1001","client":"Example Manufacturing LLC","name":"Example Manufacturing v. Sample Supplier","docket_number":"1:26-cv-00123","court":"US District Court, Example District","jurisdiction":"Federal (example)","lead_attorney":"Demo Attorney"},
+  {"matter_id":"MAT-1002","client":"Example Services Inc.","name":"Example Services v. Test Co.","docket_number":"2:26-cv-00999","court":"US District Court, Another District","jurisdiction":"Federal (example)","lead_attorney":"Demo Attorney"}
+]
